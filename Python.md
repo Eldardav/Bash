@@ -108,16 +108,16 @@ while 1==1 : #отладочное число проверок
     break
   t.sleep(wait)
 результат работы:
-22:39:03 userqq(0):~/python$ ./dz3.py
+userqq(0):~/python$ ./dz3.py
 *** start script ***
 {'drive.google.com': '0.0.0.0', 'mail.google.com': '0.0.0.0', 'google.com': '0.0.0.0'}
 ********************
-2020-11-26 22:39:20 [ERROR] drive.google.com IP mistmatch: 0.0.0.0 173.194.73.194
-2020-11-26 22:39:20 [ERROR] mail.google.com IP mistmatch: 0.0.0.0 64.233.161.83
-2020-11-26 22:39:20 [ERROR] google.com IP mistmatch: 0.0.0.0 173.194.221.139
-2020-11-26 22:40:46 [ERROR] mail.google.com IP mistmatch: 64.233.161.83 64.233.165.19
-2020-11-26 22:40:48 [ERROR] mail.google.com IP mistmatch: 64.233.165.19 64.233.161.83
-2020-11-26 22:40:52 [ERROR] google.com IP mistmatch: 173.194.221.139 64.233.165.101
-2020-11-26 22:40:54 [ERROR] google.com IP mistmatch: 64.233.165.101 173.194.222.100
+2021-10-17 12:39:20 [ERROR] drive.google.com IP mistmatch: 0.0.0.0 173.194.73.194
+2021-10-17 12:39:20 [ERROR] mail.google.com IP mistmatch: 0.0.0.0 64.233.161.83
+2021-10-17 12:39:20 [ERROR] google.com IP mistmatch: 0.0.0.0 173.194.221.139
+2021-10-17 12:40:46 [ERROR] mail.google.com IP mistmatch: 64.233.161.83 64.233.165.19
+2021-10-17 12:40:48 [ERROR] mail.google.com IP mistmatch: 64.233.165.19 64.233.161.83
+2021-10-17 12:40:52 [ERROR] google.com IP mistmatch: 173.194.221.139 64.233.165.101
+2021-10-17 12:40:54 [ERROR] google.com IP mistmatch: 64.233.165.101 173.194.222.100
 
 
