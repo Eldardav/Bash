@@ -56,7 +56,7 @@ c = a + b
 >              prepare_result = prepare_result.replace(' ', '')
 >              print(cmd+prepare_result)
 >       #        break
->       print('\033[0m')
+
 
 Вывод:
 >       userqq@urt(0):~/python$ ./dz2.py ~/devops-netology/
